@@ -1,0 +1,11 @@
+# Without running the program, determine how many lines it prints and what each line contains.
+# print("A")
+# print("B")
+# print("A")
+# print("C")
+# print("B")
+print("A")
+print("B")
+print("A")
+print("C")
+print("B")
